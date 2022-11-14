@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Prabal
 - 👀 I’m interested in creating something new.
 - 🌱 I’m currently learning MERN stack.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @prabal19999@gmail.com
+- 📫 You can reach me on @prabal19999@gmail.com.
 
 <!---
 RationalPrabal/RationalPrabal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
