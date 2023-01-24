@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Prabal</h1>
 <h3 align="center"><Full Stack Web Developer/></h3>
 
+<h4 align="center">A Quick Learner and Passionate Full Stack Web Developer with 1200+hours hands-on experience in coding. Have built 5 major projects, 50+ minor projects and learnt all the mentioned Tech Stack within the last 6 months . Looking forward to work as a responsible and competent employee in an exciting organization.</h4>
 
-<img src="https://via.placeholder.com/15/f03c15/000000?text=+jnfn">
-
-<h3 align="center">GitHub Trophies :trollface: </h3>
+<h3 align="center">GitHub Trophies 🏆 </h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rationalprabal&theme=dracula" alt="rationalprabal" /></a> </p>
 
 
  <br> </br>
 <h3 align="center">Languages and Tools :crayon:</h3>
- <br> </br>
 <div align="center"> 
 <img  align="center"  src="https://img.shields.io/badge/html5-e36028?style=for-the-badge&logo=html5" alt="html">
 <img align="center" src = "https://img.shields.io/badge/css3-2449d8?style=for-the-badge&logo=css3"  alt="css">
