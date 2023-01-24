@@ -9,7 +9,7 @@
  
  
  <div align="center"> 
- <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=Hello%20G%C3%BCnter&author=Prabal"/>
+ <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=The%20Best%20Developer%20is%20not%20the%20one%20who%20remembers%20all%20the%20stuffs%20but%20is%20the%20one%20who%20knows%20where%20to%20lookup%20for%20the%20Stuffs%2C%20always!&author=Prabal"/>
                           
  </div>
 <h3 align="center">GitHub Trophies 🏆 </h3>
