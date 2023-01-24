@@ -13,6 +13,7 @@
 </p>
 
 <h3 align="center">Languages and Tools :crayon:</h3>
+ <br> </br>
 <div align="center"> 
 <img  align="center"  src="https://img.shields.io/badge/html5-e36028?style=for-the-badge&logo=html5" alt="html">
 <img align="center" src = "https://img.shields.io/badge/css3-2449d8?style=for-the-badge&logo=css3"  alt="css">
@@ -22,7 +23,7 @@
 <img align="center" src="https://img.shields.io/badge/typescript-0074c2?style=for-the-badge&logo=typescript" alt='typescript' />
 <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux"  alt="redux" />
   </div>
-  <br> </br>
+ 
   <div align="center">
 <img align="center" src="https://img.shields.io/badge/Cypress-64c89e?style=for-the-badge&logo=cypress"  alt="cypress" />
 <img align="center" src="https://img.shields.io/badge/Chakra UI-2abfb3?style=for-the-badge&logo=chakra ui"  alt="chakra ui" />
@@ -39,10 +40,14 @@
 
 
 
-
+<h3 align="center">GitHub Stats :chart_with_upwards_trend:</h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rationalprabal&show_icons=true&locale=en&theme=dracula" alt="rationalprabal" /></p>
+
+<h3 align="center">Programming languages :rocket:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rationalprabal&show_icons=true&locale=en&layout=compact&theme=dracula" alt="rationalprabal" /></p>
+
+<h3 align="center">GitHub Streak 🔥</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rationalprabal&theme=dracula" alt="rationalprabal" /></p>
 
 <!---
