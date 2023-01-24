@@ -13,7 +13,17 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center" width="100%"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="80" height="80"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/o0o2tn5x/production/13b9c8412093e2f0cdb5495e1f59144967fa1664-512x512.jpg" alt="cypress" width="80" height="80"/> </a></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" alt="html5" width="80" height="80"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="80" height="80"/> </a> </div>
+<div align="center" width="100%"> 
+<img  align="center"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5" alt="html">
+<img align="center" src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3"  alt="css">
+<img align="center" src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript"  alt="javascript">
+<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"  alt="react js" />
+<img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript" alt='typescript' />
+<img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux"  alt="redux" />
+  <img align="center" src="https://img.shields.io/badge/Cypress-593D88?style=for-the-badge&logo=cypress"  alt="cypress" />
+  
+
+</div>
 <div align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/public/uploads/thumbnail/9kib-354x415-unnamed-mongodb-logo-sv-1156286072355jpx03rnf.png" alt="mongodb" width="80" height="80"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="nestjs" width="80" height="80"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="80" height="80"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="react" width="80" height="80"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="80"/> </a> </div>
 
 
