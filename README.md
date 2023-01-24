@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prabal</h1>
 <h3 align="center"><Full Stack Web Developer/></h3>
 
+<style>H1{color:Blue;}</style>
+<style>H2{color:DarkOrange;}</style>
+<style>p{color:Black;}</style>
 
-
-
+<h3 align="center">GitHub Trophies :trollface: </h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rationalprabal&theme=dracula" alt="rationalprabal" /></a> </p>
 
 
