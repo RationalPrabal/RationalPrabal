@@ -53,11 +53,11 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rationalprabal&show_icons=true&locale=en&layout=compact&theme=dracula&count_private=true&show_icons=true&langs_count=8" alt="rationalprabal" /></p>
  <br> </br>
 <h3 align="center">GitHub Streak 🔥</h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rationalprabal&theme=dracula&count_private=true&show_icons=true" alt="rationalprabal" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rationalprabal&theme=dracula&count_private=true" alt="rationalprabal" /></p>
 
 <br></br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rationalprabal&repo=github-readme-stats&theme=dracula" alt="rationalprabal" /></p>
+
 
 <h3 align="center">Interest To Work Together ? Let's Connect :handshake:</h3>
 
