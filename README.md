@@ -2,22 +2,7 @@
 <h3 align="center"><Full Stack Web Developer/></h3>
 
 
-sylumer
-Regular
-Jun '20
-Here’s one approach I think will work for you to a point and it is more by way of explanation
-
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
-
-# Color Test Document
-
-## Second Heading
-
-This is a test to see how the colors work.
+https://via.placeholder.com/15/f03c15/000000?text=+
 
 <h3 align="center">GitHub Trophies :trollface: </h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rationalprabal&theme=dracula" alt="rationalprabal" /></a> </p>
