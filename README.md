@@ -16,9 +16,9 @@
 <p align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/public/uploads/thumbnail/9kib-354x415-unnamed-mongodb-logo-sv-1156286072355jpx03rnf.png" alt="mongodb" width="80" height="80"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="nestjs" width="80" height="80"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="80" height="80"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="react" width="80" height="80"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="80"/> </a> </p>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rationalprabal&show_icons=true&locale=en" alt="rationalprabal" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rationalprabal&show_icons=true&locale=en&layout=compact" alt="rationalprabal" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rationalprabal" alt="rationalprabal" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rationalprabal&show_icons=true&locale=en&theme=dracula" alt="rationalprabal" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rationalprabal&show_icons=true&locale=en&layout=compact&theme=dracula" alt="rationalprabal" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rationalprabal&theme=dracula" alt="rationalprabal" /></p>
 
 <!---
 RationalPrabal/RationalPrabal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
