@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rationalprabal&theme=dracula" alt="rationalprabal" /></a> </p>
 
 
-
+ <br> </br>
 <h3 align="center">Languages and Tools :crayon:</h3>
  <br> </br>
 <div align="center"> 
@@ -19,7 +19,6 @@
 <img align="center" src="https://img.shields.io/badge/typescript-0074c2?style=for-the-badge&logo=typescript" alt='typescript' />
 <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux"  alt="redux" />
   </div>
-  <br> </br>
   <div align="center">
 <img align="center" src="https://img.shields.io/badge/Cypress-64c89e?style=for-the-badge&logo=cypress"  alt="cypress" />
 <img align="center" src="https://img.shields.io/badge/Chakra UI-2abfb3?style=for-the-badge&logo=chakra ui"  alt="chakra ui" />
