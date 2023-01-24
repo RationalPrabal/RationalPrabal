@@ -23,7 +23,10 @@
 <img align="center" src="https://img.shields.io/badge/Cypress-64c89e?style=for-the-badge&logo=cypress"  alt="cypress" />
 <img align="center" src="https://img.shields.io/badge/Chakra UI-2abfb3?style=for-the-badge&logo=chakra ui"  alt="chakra ui" />
 <img align="center" src="https://img.shields.io/badge/Material UI-0079f2?style=for-the-badge&logo=material ui"  alt="material ui" />
-<img align="center" src="https://img.shields.io/badge/Node JS-63985e?style=for-the-badge&logo=node"  alt="Node Js" />
+<img align="center" src="https://img.shields.io/badge/Node JS-63985e?style=for-the-badge&logo=node js"  alt="Node Js" />
+<img align="center" src="https://img.shields.io/badge/Express JS-ead41c?style=for-the-badge&logo=chakra ui"  alt="chakra ui" />
+<img align="center" src="https://img.shields.io/badge/Mongo DB-e8eaed?style=for-the-badge&logo=mongo db"  alt="mongo db" />
+<img align="center" src="https://img.shields.io/badge/Rest API-2962ff?style=for-the-badge&logo=rest api"  alt="Rest API" />
   
 
 </div>
