@@ -23,7 +23,6 @@
 <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux"  alt="redux" />
   </div>
   <br> </br>
-  
   <div align="center">
 <img align="center" src="https://img.shields.io/badge/Cypress-64c89e?style=for-the-badge&logo=cypress"  alt="cypress" />
 <img align="center" src="https://img.shields.io/badge/Chakra UI-2abfb3?style=for-the-badge&logo=chakra ui"  alt="chakra ui" />
