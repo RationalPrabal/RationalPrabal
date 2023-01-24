@@ -7,7 +7,7 @@
 <h4 align="center">A Quick Learner and an Agile Full Stack Web Developer with 2000+hours hands-on experience in coding & 500+hours of DSA . Have built 5 major projects, 50+ minor projects and learnt all the mentioned Tech Stack within the last 6 months . Looking forward to work as a responsible and competent employee in an exciting organization.</h4>
  <br> </br>
 <h3 align="center">GitHub Trophies 🏆 </h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rationalprabal&theme=dracula&margin-w=15&no-bg=true" alt="rationalprabal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rationalprabal&theme=dracula&margin-w=15" alt="rationalprabal" /></a> </p>
 
 
  <br> </br>
@@ -39,6 +39,7 @@
 <div align="center"> 
 <img  align="center"  src="https://img.shields.io/badge/Git & GitHub-f34c27?style=for-the-badge&logo=git" alt="git">
 <img align="center" src = "https://img.shields.io/badge/Netlify-479fbe?style=for-the-badge&logo=netlify"  alt="netlify">
+ <img  align="center"  src="https://img.shields.io/badge/VS Code-23aaf2?style=for-the-badge&logo=vscode" alt="vscode">
 <img align="center" src ="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"  alt="vercel">
     <img align="center" src="https://img.shields.io/badge/NPM-c13534?style=for-the-badge&logo=npm"  alt="npm" />
 
