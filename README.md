@@ -2,7 +2,7 @@
 <h3 align="center"><Full Stack Web Developer/></h3>
 
 
-https://via.placeholder.com/15/f03c15/000000?text=+
+<img src="https://via.placeholder.com/15/f03c15/000000?text=+jnfn">
 
 <h3 align="center">GitHub Trophies :trollface: </h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rationalprabal&theme=dracula" alt="rationalprabal" /></a> </p>
