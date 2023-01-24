@@ -7,7 +7,7 @@
 <h4 align="center">A Quick Learner and an Agile Full Stack Web Developer with 2000+hours hands-on experience in coding & 500+hours of DSA . Have built 5 major projects, 50+ minor projects and learnt all the mentioned Tech Stack within the last 6 months . Looking forward to work as a responsible and competent employee in an exciting organization.</h4>
  <br> </br>
 <h3 align="center">GitHub Trophies 🏆 </h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rationalprabal&theme=dracula" alt="rationalprabal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rationalprabal&theme=dracula&margin-w=15&no-bg=true" alt="rationalprabal" /></a> </p>
 
 
  <br> </br>
@@ -56,7 +56,7 @@
 
 <br></br>
 
-<h3 align="center">Interest To Work Together ? Let's Connect :handshake: ⚙️</h3>
+<h3 align="center">Interest To Work Together ? Let's Connect :handshake:</h3>
 
 <div align="center"> 
 <a href="https://rationalprabal.github.io" target="_blank"><img  align="center"  src="https://img.shields.io/badge/Portfolio-319795?style=for-the-badge&logo=portfolio" alt="portfolio"></a>
