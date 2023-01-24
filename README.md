@@ -14,13 +14,16 @@
 
 <h3 align="center">Languages and Tools :crayon:</h3>
 <div align="center" width="100%"> 
-<img  align="center"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5" alt="html">
-<img align="center" src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3"  alt="css">
-<img align="center" src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript"  alt="javascript">
+<img  align="center"  src="https://img.shields.io/badge/html5-23E34F26?style=for-the-badge&logo=html5" alt="html">
+<img align="center" src = "https://img.shields.io/badge/css3-231572B6?style=for-the-badge&logo=css3"  alt="css">
+<img align="center" src ="https://img.shields.io/badge/javascript-23323330?style=for-the-badge&logo=javascript"  alt="javascript">
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"  alt="react js" />
-<img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript" alt='typescript' />
+<img align="center" src="https://img.shields.io/badge/typescript-23007ACC?style=for-the-badge&logo=typescript" alt='typescript' />
 <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux"  alt="redux" />
-  <img align="center" src="https://img.shields.io/badge/Cypress-64c89e?style=for-the-badge&logo=cypress"  alt="cypress" />
+<img align="center" src="https://img.shields.io/badge/Cypress-64c89e?style=for-the-badge&logo=cypress"  alt="cypress" />
+<img align="center" src="https://img.shields.io/badge/Chakra UI-2abfb3?style=for-the-badge&logo=cypress"  alt="chakra ui" />
+<img align="center" src="https://img.shields.io/badge/Material UI-0079f2?style=for-the-badge&logo=cypress"  alt="material ui" />
+<img align="center" src="https://img.shields.io/badge/Node JS-63985e?style=for-the-badge&logo=cypress"  alt="Node Js" />
   
 
 </div>
