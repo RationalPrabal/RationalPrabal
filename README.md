@@ -20,7 +20,7 @@
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"  alt="react js" />
 <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript" alt='typescript' />
 <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux"  alt="redux" />
-  <img align="center" src="https://img.shields.io/badge/Cypress-593D88?style=for-the-badge&logo=cypress"  alt="cypress" />
+  <img align="center" src="https://img.shields.io/badge/Cypress-64c89e?style=for-the-badge&logo=cypress"  alt="cypress" />
   
 
 </div>
