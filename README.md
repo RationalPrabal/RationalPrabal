@@ -1,4 +1,5 @@
-<h1 align="center">Hi 🧑, I'm Prabal</h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rationalprabal&style=for-the-badge&color=tomato" alt="prabal"/></p>
+<h1 align="center">Hi 🙋‍♂️, I'm Prabal</h1>
 <div align="center"> 
  <img align="center" src="https://img.shields.io/badge/<Full Stack Web Developer/> -571845?style=for-the-badge&logo=developer?logoWidth=90"  alt="developer" />
  </div>
@@ -58,8 +59,10 @@
 <h3 align="center">Interest To Work Together ? Let's Connect :handshake: ⚙️</h3>
 
 <div align="center"> 
-<a href="https://rationalprabal.github.io"><img  align="center"  src="https://img.shields.io/badge/Portfolio-319795?style=for-the-badge&logo=portfolio" alt="portfolio"></a>
-<a href="https://www.linkedin.com/in/prabal-%F0%9F%87%AE%F0%9F%87%B3-690190155/"><img  align="center"  src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
+<a href="https://rationalprabal.github.io" target="_blank"><img  align="center"  src="https://img.shields.io/badge/Portfolio-319795?style=for-the-badge&logo=portfolio" alt="portfolio"></a>
+ <a href="mailto:prabal19999@gmail.com" target="_blank"><img  align="center"  src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=email" alt="email"></a>
+<a href="https://www.linkedin.com/in/prabal-%F0%9F%87%AE%F0%9F%87%B3-690190155/" target="_blank"><img  align="center"  src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
+ <a href="https://api.whatsapp.com/send?phone=8463891744" target="_blank"><img  align="center"  src="https://img.shields.io/badge/WhatsApp-2179ab?style=for-the-badge&logo=whatsapp" alt="whatsapp"></a>
  </div>
 
 <!---
