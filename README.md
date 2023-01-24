@@ -50,7 +50,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rationalprabal&show_icons=true&locale=en&theme=dracula&count_private=true" alt="rationalprabal" /></p>
  <br> </br>
 <h3 align="center">Programming languages :rocket:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rationalprabal&show_icons=true&locale=en&layout=compact&theme=dracula&count_private=true&langs_count=8" alt="rationalprabal" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rationalprabal&show_icons=true&locale=en&theme=dracula&count_private=true&langs_count=8" alt="rationalprabal" /></p>
  <br> </br>
 <h3 align="center">GitHub Streak 🔥</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rationalprabal&theme=dracula&count_private=true&show_icons=true" alt="rationalprabal" /></p>
