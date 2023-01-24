@@ -6,6 +6,11 @@
 
 <h4 align="center">A Quick Learner and an Agile Full Stack Web Developer with 2000+hours hands-on experience in coding & 500+hours of DSA . Have built 5 major projects, 50+ minor projects and learnt all the mentioned Tech Stack within the last 6 months . Looking forward to work as a responsible and competent employee in an exciting organization.</h4>
  <br> </br>
+ 
+ 
+ <div align="center"> 
+ <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+ </div>
 <h3 align="center">GitHub Trophies 🏆 </h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rationalprabal&theme=dracula&margin-w=15" alt="rationalprabal" /></a> </p>
 
