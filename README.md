@@ -4,13 +4,9 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rationalprabal" alt="rationalprabal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rationalprabal&theme=dracula" alt="rationalprabal" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack.**
 
-- 📫 Reach me on **prabal19999@gmail.com**
-<p align="left">
-</p>
 
 <h3 align="center">Languages and Tools :crayon:</h3>
  <br> </br>
