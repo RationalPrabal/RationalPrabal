@@ -18,15 +18,18 @@
 <img align="center" src = "https://img.shields.io/badge/css3-2449d8?style=for-the-badge&logo=css3"  alt="css">
 <img align="center" src ="https://img.shields.io/badge/javascript-e4d04b?style=for-the-badge&logo=javascript"  alt="javascript">
 <img align="center" src="https://img.shields.io/badge/React-5ccfee?style=for-the-badge&logo=react"  alt="react js" />
-<img align="center" src="https://img.shields.io/badge/typescript-23007ACC?style=for-the-badge&logo=typescript" alt='typescript' />
+<img align="center" src="https://img.shields.io/badge/typescript-0074c2?style=for-the-badge&logo=typescript" alt='typescript' />
 <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux"  alt="redux" />
 <img align="center" src="https://img.shields.io/badge/Cypress-64c89e?style=for-the-badge&logo=cypress"  alt="cypress" />
 <img align="center" src="https://img.shields.io/badge/Chakra UI-2abfb3?style=for-the-badge&logo=chakra ui"  alt="chakra ui" />
 <img align="center" src="https://img.shields.io/badge/Material UI-0079f2?style=for-the-badge&logo=material ui"  alt="material ui" />
 <img align="center" src="https://img.shields.io/badge/Node JS-63985e?style=for-the-badge&logo=node js"  alt="Node Js" />
-<img align="center" src="https://img.shields.io/badge/Express JS-ead41c?style=for-the-badge&logo=chakra ui"  alt="chakra ui" />
-<img align="center" src="https://img.shields.io/badge/Mongo DB-e8eaed?style=for-the-badge&logo=mongo db"  alt="mongo db" />
-<img align="center" src="https://img.shields.io/badge/Rest API-2962ff?style=for-the-badge&logo=rest api"  alt="Rest API" />
+<img align="center" src="https://img.shields.io/badge/Express JS-ead41c?style=for-the-badge&logo=expressjs"  alt="express js" />
+<img align="center" src="https://img.shields.io/badge/Mongo DB-e8eaed?style=for-the-badge&logo=mongodb"  alt="mongo db" />
+<img align="center" src="https://img.shields.io/badge/Rest API-2962ff?style=for-the-badge&logo=api"  alt="Rest API" />
+  
+  <img align="center" src="https://img.shields.io/badge/Jest -913f4b?style=for-the-badge&logo=jest"  alt="Jest" />
+  <img align="center" src="https://img.shields.io/badge/Next JS-000000?style=for-the-badge&logo=nextjs"  alt="Next JS" />
   
 
 </div>
