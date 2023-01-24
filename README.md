@@ -55,13 +55,13 @@
 <h3 align="center">GitHub Streak 🔥</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rationalprabal&theme=dracula&count_private=true&show_icons=true" alt="rationalprabal" /></p>
 
-<p align="center"><img align="center" src="https://api.githubtrends.io/user/svg/rationalprabal/langs" alt="rationalprabal" /></p>
+
 <br></br>
 
 
 
 
-<h3 align="center">Interest To Work Together ? Let's Connect :handshake:</h3>
+<h3 align="center">Interested To Work Together ? Let's Connect :handshake:</h3>
 
 <div align="center"> 
 <a href="https://rationalprabal.github.io" target="_blank"><img  align="center"  src="https://img.shields.io/badge/Portfolio-319795?style=for-the-badge&logo=portfolio" alt="portfolio"></a>
