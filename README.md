@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabal</h1>
-<h3 align="center">"<Full Stack Web Developer/>"</h3>
+ <img align="center" src="https://img.shields.io/badge/Full Stack Web Developer -571845?style=for-the-badge&logo=developer?logoWidth=90"  alt="developer" />
 
 <h4 align="center">A Quick Learner and an Agile Full Stack Web Developer with 2000+hours hands-on experience in coding & 500+hours of DSA . Have built 5 major projects, 50+ minor projects and learnt all the mentioned Tech Stack within the last 6 months . Looking forward to work as a responsible and competent employee in an exciting organization.</h4>
  <br> </br>
