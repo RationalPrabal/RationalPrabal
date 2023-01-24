@@ -11,7 +11,7 @@
 
 
  <br> </br>
-<h3 align="center">Languages:crayon:</h3>
+<h3 align="center">Languages & Skills:crayon:</h3>
 <div align="center"> 
 <img  align="center"  src="https://img.shields.io/badge/html5-e36028?style=for-the-badge&logo=html5" alt="html">
 <img align="center" src = "https://img.shields.io/badge/css3-2449d8?style=for-the-badge&logo=css3"  alt="css">
@@ -58,7 +58,7 @@
 <p align="center"><img align="center" src="https://api.githubtrends.io/user/svg/rationalprabal/langs" alt="rationalprabal" /></p>
 <br></br>
 
-<p align="center"><img align="center" src="https://www.githubtrends.io/wrapped/rationalprabal" alt="rationalprabal" /></p>
+
 
 
 <h3 align="center">Interest To Work Together ? Let's Connect :handshake:</h3>
