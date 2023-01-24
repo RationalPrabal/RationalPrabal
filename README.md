@@ -9,9 +9,9 @@
  
  
  <div align="center"> 
- <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=The%20Best%20Developer%20is%20not%20the%20one%20who%20remembers%20all%20the%20stuffs%20but%20is%20the%20one%20who%20knows%20where%20to%20lookup%20for%20the%20Stuffs%2C%20always!&author=Prabal"/>
-                          
- </div>
+ <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20Best%20Developer%20is%20not%20the%20one%20who%20remembers%20all%20the%20stuffs%20but%20is%20the%20one%20who%20knows%20where%20to%20lookup%20for%20the%20Stuffs%3B%20always!&author=Prabal"/>
+</div>
+ <br> </br>
 <h3 align="center">GitHub Trophies 🏆 </h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rationalprabal&theme=dracula&margin-w=15" alt="rationalprabal" /></a> </p>
 
