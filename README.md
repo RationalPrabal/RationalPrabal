@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prabal</h1>
+<h1 align="center">Hi 🙋‍♂️, I'm Prabal</h1>
 <div align="center"> 
  <img align="center" src="https://img.shields.io/badge/<Full Stack Web Developer/> -571845?style=for-the-badge&logo=developer?logoWidth=90"  alt="developer" />
  </div>
@@ -10,7 +10,7 @@
 
 
  <br> </br>
-<h3 align="center">Languages and Tools :crayon:</h3>
+<h3 align="center">Languages:crayon:</h3>
 <div align="center"> 
 <img  align="center"  src="https://img.shields.io/badge/html5-e36028?style=for-the-badge&logo=html5" alt="html">
 <img align="center" src = "https://img.shields.io/badge/css3-2449d8?style=for-the-badge&logo=css3"  alt="css">
@@ -33,8 +33,15 @@
   </div>
 
   
+ <br> </br>
+<h3 align="center">Tools ⚙️</h3>
+<div align="center"> 
+<img  align="center"  src="https://img.shields.io/badge/Git & GitHub-f34c27?style=for-the-badge&logo=git" alt="git">
+<img align="center" src = "https://img.shields.io/badge/Netlify-479fbe?style=for-the-badge&logo=netlify"  alt="netlify">
+<img align="center" src ="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"  alt="vercel">
+    <img align="center" src="https://img.shields.io/badge/NPM-c13534?style=for-the-badge&logo=npm"  alt="npm" />
 
-
+  </div>
  <br> </br>
 <h3 align="center">GitHub Stats :chart_with_upwards_trend:</h3>
 
@@ -45,6 +52,15 @@
  <br> </br>
 <h3 align="center">GitHub Streak 🔥</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rationalprabal&theme=dracula" alt="rationalprabal" /></p>
+
+<br></br>
+
+<h3 align="center">Interest To Work Together ? Let's Connect :handshake: ⚙️</h3>
+
+<div align="center"> 
+<a href="https://rationalprabal.github.io"><img  align="center"  src="https://img.shields.io/badge/Portfolio-319795?style=for-the-badge&logo=portfolio" alt="portfolio"></a>
+<a href="https://www.linkedin.com/in/prabal-%F0%9F%87%AE%F0%9F%87%B3-690190155/"><img  align="center"  src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
+ </div>
 
 <!---
 RationalPrabal/RationalPrabal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
