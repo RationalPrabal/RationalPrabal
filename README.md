@@ -57,7 +57,7 @@
 
 <br></br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="rationalprabal" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rationalprabal&repo=github-readme-stats&theme=dracula" alt="rationalprabal" /></p>
 
 <h3 align="center">Interest To Work Together ? Let's Connect :handshake:</h3>
 
