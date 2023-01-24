@@ -13,13 +13,18 @@
 </p>
 
 <h3 align="center">Languages and Tools :crayon:</h3>
-<div align="center" width="100%"> 
+<div align="center"> 
 <img  align="center"  src="https://img.shields.io/badge/html5-e36028?style=for-the-badge&logo=html5" alt="html">
 <img align="center" src = "https://img.shields.io/badge/css3-2449d8?style=for-the-badge&logo=css3"  alt="css">
 <img align="center" src ="https://img.shields.io/badge/javascript-e4d04b?style=for-the-badge&logo=javascript"  alt="javascript">
 <img align="center" src="https://img.shields.io/badge/React-5ccfee?style=for-the-badge&logo=react"  alt="react js" />
+    <img align="center" src="https://img.shields.io/badge/Next JS-000000?style=for-the-badge&logo=nextjs"  alt="Next JS" />
 <img align="center" src="https://img.shields.io/badge/typescript-0074c2?style=for-the-badge&logo=typescript" alt='typescript' />
 <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux"  alt="redux" />
+  </div>
+  <br> </br>
+  
+  <div align="center">
 <img align="center" src="https://img.shields.io/badge/Cypress-64c89e?style=for-the-badge&logo=cypress"  alt="cypress" />
 <img align="center" src="https://img.shields.io/badge/Chakra UI-2abfb3?style=for-the-badge&logo=chakra ui"  alt="chakra ui" />
 <img align="center" src="https://img.shields.io/badge/Material UI-0079f2?style=for-the-badge&logo=material ui"  alt="material ui" />
@@ -29,10 +34,11 @@
 <img align="center" src="https://img.shields.io/badge/Rest API-2962ff?style=for-the-badge&logo=api"  alt="Rest API" />
   
   <img align="center" src="https://img.shields.io/badge/Jest -913f4b?style=for-the-badge&logo=jest"  alt="Jest" />
-  <img align="center" src="https://img.shields.io/badge/Next JS-000000?style=for-the-badge&logo=nextjs"  alt="Next JS" />
+  </div>
+
   
 
-</div>
+
 
 
 
