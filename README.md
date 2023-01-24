@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prabal</h1>
 <h3 align="center"><Full Stack Web Developer/></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username="rationalprabal"&label=Profile%20views&color=0e75b6&style=flat" alt="rationalprabal" /> </p>
+
 <div align='center'><a href="https://app.daily.dev/rationalprabal"><img src="https://api.daily.dev/devcards/5847bace03dc45b8a77853532ed4599f.png?r=8qj" width="400" alt="prabal"/></a></div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rationalprabal" alt="rationalprabal" /></a> </p>
