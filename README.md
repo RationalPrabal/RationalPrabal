@@ -55,6 +55,7 @@
 <h3 align="center">GitHub Streak 🔥</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rationalprabal&theme=dracula&count_private=true&show_icons=true" alt="rationalprabal" /></p>
 
+<p align="center"><img align="center" src="https://api.githubtrends.io/user/svg/rationalprabal/langs" alt="rationalprabal" /></p>
 <br></br>
 
 
