@@ -58,6 +58,7 @@
 <p align="center"><img align="center" src="https://api.githubtrends.io/user/svg/rationalprabal/langs" alt="rationalprabal" /></p>
 <br></br>
 
+<p align="center"><img align="center" src="https://www.githubtrends.io/wrapped/rationalprabal" alt="rationalprabal" /></p>
 
 
 <h3 align="center">Interest To Work Together ? Let's Connect :handshake:</h3>
