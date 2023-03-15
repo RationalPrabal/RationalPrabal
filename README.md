@@ -45,7 +45,7 @@
 <div align="center"> 
 <img  align="center"  src="https://img.shields.io/badge/Git & GitHub-f34c27?style=for-the-badge&logo=git" alt="git">
 <img align="center" src = "https://img.shields.io/badge/Netlify-479fbe?style=for-the-badge&logo=netlify"  alt="netlify">
- <img  align="center"  src="https://img.shields.io/badge/VS Code-23aaf2?style=for-the-badge&logo=vscode" alt="vscode">
+ <img  align="center"  src="https://img.shields.io/badge/VS Code-23aaf2?style=for-the-badge&logo=visual studio" alt="vscode">
 <img align="center" src ="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"  alt="vercel">
     <img align="center" src="https://img.shields.io/badge/NPM-c13534?style=for-the-badge&logo=npm"  alt="npm" />
 
