@@ -4,7 +4,9 @@
  <img align="center" src="https://img.shields.io/badge/<Full Stack Web Developer/> -571845?style=for-the-badge&logo=developer?logoWidth=90"  alt="developer" />
  </div>
 
-<h4 align="center">A dedicated and agile Full Stack Web Developer with 8-months of professional work experience. 1200+ hours of hands-on experience in coding and 500+ hours of DSA. Have built 5 major projects and 20+ minor projects . Looking forward to work as a responsible and competent employee in an exciting organization.</h4>
+<h4 align="center">MERN Stack developer with 9 months of professional experience.Skilled in designing and implementing robust web applications using a variety of technologies.Proficient
+in creating efficient and scalable solutions, staying current with industry best practices. Committed to delivering high-quality software that meets business objectives.
+</h4>
  <br> </br>
  
  
